@@ -1,0 +1,7 @@
+# Già installate in runtime\Lib\site-packages (Python 3.14 portatile).
+# Per reinstallarle:
+#   python -m pip install --target runtime\Lib\site-packages -r requirements.txt
+PySide6-Essentials==6.12.0
+PySide6-Addons==6.12.0
+requests>=2.31
+av>=14
